@@ -1,11 +1,11 @@
 # Mosticare
 
 > The planet needs a green solution for mosquito-free life. Time to stop spraying chemicals.
-> — Adrian Christiansen, Founder
+> Adrian Christiansen, Founder
 
-Mosticare is a European mosquito solutions company on a mission to become the world's definitive authority on mosquito protection — and the people's savior from mosquitoes.
+Mosticare is a European mosquito solutions company on a mission to become the world's definitive authority on mosquito protection, and the people's saviour from mosquitoes.
 
-We are building the Wikipedia of mosquitoes AND the company that sells the solution — all in one brand. No one else on Earth is doing both at this scale.
+We are building the Wikipedia of mosquitoes AND the company that sells the solution, all in one brand. No one else on Earth is doing both at this scale.
 
 ---
 
@@ -21,7 +21,7 @@ Endocrine-disrupting chemical repellents that poison the people they claim to pr
 
 ## What we're building
 
-Ecological, repelling LLIN technology — physical barriers that stop mosquitoes without introducing toxins. Designed, manufactured, and distributed across Europe, with a roadmap to global expansion.
+Ecological, repelling LLIN technology. Physical barriers that stop mosquitoes without introducing toxins. Designed, manufactured, and distributed across Europe, with a roadmap to global expansion.
 
 ## This Organization
 
