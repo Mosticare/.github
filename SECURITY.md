@@ -6,11 +6,11 @@ Mosticare takes the security of its software, data, and customers seriously. Thi
 
 If you believe you've found a security vulnerability in any Mosticare repository, infrastructure, or service (mosticare.org, the operations dashboard at ops.mosticare.org, the Paperclip agent runtime, the publishing pipeline, or any code in this organization), **please do not open a public GitHub issue.**
 
-Two ways to report — pick whichever is easier:
+Two ways to report. Pick whichever is easier:
 
-1. **GitHub Private Vulnerability Reporting** (preferred) — go to the affected repo, click the **Security** tab → **Report a vulnerability**. This routes directly to maintainers with full audit trail.
+1. **GitHub Private Vulnerability Reporting** (preferred): go to the affected repo, click the **Security** tab → **Report a vulnerability**. This routes directly to maintainers with full audit trail.
 
-2. **Email** — send a report to **contact@mosticare.org** with `SECURITY:` in the subject line.
+2. **Email**: send a report to **contact@mosticare.org** with `SECURITY:` in the subject line.
 
 In your report, include:
 
@@ -35,9 +35,9 @@ You'll receive an acknowledgement within **72 hours** and a substantive status u
 
 - Social engineering of Mosticare staff, contractors, or agents
 - Physical attacks against Mosticare infrastructure or premises
-- Vulnerabilities in third-party dependencies that are not specific to our deployment — please report upstream
+- Vulnerabilities in third-party dependencies that are not specific to our deployment (please report upstream)
 - Findings from automated scanners without a proof-of-concept exploit
-- Best-practice violations without demonstrated security impact (e.g., missing HTTP headers, weak TLS ciphers on already-protected endpoints) — feel free to mention them, but they're not bounty-worthy
+- Best-practice violations without demonstrated security impact (e.g., missing HTTP headers, weak TLS ciphers on already-protected endpoints). Feel free to mention them, but they're not bounty-worthy
 - Denial-of-service or volumetric attacks
 - Issues requiring an attacker to already have physical or administrative access to a Mosticare-owned device
 
@@ -59,4 +59,4 @@ We're happy to publicly acknowledge researchers who responsibly disclose vulnera
 
 ---
 
-*Mosticare — European mosquito solutions company. [mosticare.org](https://mosticare.org)*
+*Mosticare is two entities: the Mosticare Foundation (non-profit, [mosticare.org](https://mosticare.org)) and Mosticare OÜ (storefront, [mosticare.com](https://www.mosticare.com)). Security contact: contact@mosticare.org.*
